@@ -15,5 +15,3 @@ Cyber Operations Analyst at Hillwood, working toward identity and access managem
 ## Repositories
 
 - [`aortizco-site`](https://github.com/TheLunalome/aortizco-site): the source for my resume and project tracker. One static page, no build step.
-
-Older repositories here are course work from 2017 to 2022.
